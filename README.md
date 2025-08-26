@@ -4,7 +4,7 @@ This project applies multiple machine learning models to predict the likelihood 
 ---
 
 ## 📊 Dataset
-- Source: Pima Indians Diabetes Database (available on Kaggle / UCI ML Repo).
+- Source: Diabetes Database (available on Kaggle).
 - Features include: glucose level, blood pressure, insulin, BMI, age, and more.
 - Target variable: `Outcome` (0 = No Diabetes, 1 = Diabetes).
 
