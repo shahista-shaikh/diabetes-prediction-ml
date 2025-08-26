@@ -54,7 +54,9 @@ We trained and tuned the following models with **RandomizedSearchCV**:
 
 ## 📉 ROC Curve
 
-![ROC Curve]<img width="959" height="692" alt="Screenshot 2025-08-26 145909" src="https://github.com/user-attachments/assets/f45b5f03-e023-4dbd-84a7-c58f2a5321ae" />
+<img width="959" height="692" alt="Screenshot 2025-08-26 145909" src="https://github.com/user-attachments/assets/f45b5f03-e023-4dbd-84a7-c58f2a5321ae" />
+
+
 
 
 
